@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "redstone-timer",
+  "version": "${version}",
+  "name": "Redstone Timer",
+  "description": "A configurable redstone timer block with delay, on-time, loop mode, autonomous start, directional output and optional ticking sound.",
+  "authors": [
+    "ThBTT!"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/user/ThBTT"
+  },
+  "license": "MIT",
+  "icon": "assets/redstone_timer/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.thiagoaa.redstonetimer.RedstoneTimer"
+    ],
+    "client": [
+      "net.thiagoaa.redstonetimer.RedstoneTimerClient"
+    ],
+    "fabric-datagen": [
+      "net.thiagoaa.redstonetimer.RedstoneTimerDataGenerator"
+    ],
+    "modmenu": [
+      "net.thiagoaa.redstonetimer.integration.RedstoneTimerModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "redstone-timer.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

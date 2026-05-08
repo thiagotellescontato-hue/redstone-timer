@@ -1,0 +1,26 @@
+{
+  "block.redstone_timer.redstone_timer": "Temporizador de Redstone",
+
+  "screen.redstone_timer.delay": "Delay",
+  "screen.redstone_timer.delay_label": "Delay:",
+  "screen.redstone_timer.on_time": "Tempo ON",
+  "screen.redstone_timer.on_time_label": "Tempo ON:",
+  "screen.redstone_timer.loop_label": "Loop:",
+  "screen.redstone_timer.enabled_label": "Ativo:",
+  "screen.redstone_timer.autonomous_start": "Início Automático",
+  "screen.redstone_timer.apply": "Aplicar",
+  "screen.redstone_timer.applied": "Aplicado!",
+  "screen.redstone_timer.on": "ON",
+  "screen.redstone_timer.off": "OFF",
+  "screen.redstone_timer.max": "Max: %s",
+
+  "config.redstone_timer.title": "Configuração do Redstone Timer",
+  "config.redstone_timer.block_sound": "Som do Bloco:",
+  "config.redstone_timer.yes": "Sim",
+  "config.redstone_timer.no": "Não",
+  "config.redstone_timer.done": "Concluído",
+  "config.redstone_timer.coming_soon": "Tela de configuração em desenvolvimento.",
+
+  "tooltip.redstone_timer.redstone_timer.1": "Temporizador de redstone configurável.",
+  "tooltip.redstone_timer.redstone_timer.2": "Clique com o botão direito para configurar."
+}
