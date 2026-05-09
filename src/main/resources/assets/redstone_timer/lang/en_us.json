@@ -14,13 +14,13 @@
   "screen.redstone_timer.off": "OFF",
   "screen.redstone_timer.max": "Max: %s",
 
+  "tooltip.redstone_timer.redstone_timer.1": "Configurable redstone delay timer.",
+  "tooltip.redstone_timer.redstone_timer.2": "Right-click to configure.",
+
   "config.redstone_timer.title": "Redstone Timer Config",
   "config.redstone_timer.block_sound": "Block Sound:",
   "config.redstone_timer.yes": "Yes",
   "config.redstone_timer.no": "No",
   "config.redstone_timer.done": "Done",
-  "config.redstone_timer.coming_soon": "Config screen coming soon.",
-
-  "tooltip.redstone_timer.redstone_timer.1": "Configurable redstone delay timer.",
-  "tooltip.redstone_timer.redstone_timer.2": "Right-click to configure.",
+  "config.redstone_timer.coming_soon": "Config screen coming soon."
 }
