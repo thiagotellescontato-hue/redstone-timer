@@ -5,10 +5,11 @@
   "name": "Redstone Timer",
   "description": "A configurable redstone timer block with delay, on-time, loop mode, autonomous start, directional output and optional ticking sound.",
   "authors": [
-    "ThBTT!"
+    "ThBTT"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/user/ThBTT"
+    "sources": "https://github.com/thiagotellescontato-hue/redstone-timer",
+    "discord": "https://discord.gg/pcKQSDgTzh"
   },
   "license": "MIT",
   "icon": "assets/redstone_timer/icon.png",
